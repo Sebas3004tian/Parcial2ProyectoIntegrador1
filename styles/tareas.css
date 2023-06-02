@@ -1,0 +1,76 @@
+
+  
+.Nueva_Tarea {
+    background-color: #ccd0d8;
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ToDo{
+    background-color: #255ac6;
+    height: 900px;
+    width: 900px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tareaToDoCard{
+    border-radius: 25px;
+    background-color: #D8DBE0;
+    border: 1px solid #000d276e;
+}
+.tareaDoingCard{
+    border-radius: 25px;
+    background-color: #D8DBE0;
+    border: 1px solid #000d276e;
+}
+.tareaDoneCard{
+    border-radius: 25px;
+    background-color: #D8DBE0;
+    border: 1px solid #000d276e;
+}
+
+#eliminarBTN {
+    color: #f3f3f3;
+    background-color: #b54242;
+    border: 1px solid #000d276a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#moverDerBTN {
+    color: #f3f3f3;
+    background-color: #453dd0;
+    border: 1px solid #000d276a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+#moverIzqBTN {
+    color: #f3f3f3;
+    background-color: #acc521;
+    border: 1px solid #000d276a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+/*
+.Doing {
+    background-color: #ccd0d8;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 80vw; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Done {
+    background-color: #ccd0d8;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 80vw; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
+}*/
